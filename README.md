@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Fatih and I'm a computer engineer, from Turkey</p>
+<img align="right" height="300" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
+<p align="left">My name is Fatih and I'm a computer engineer, from Turkey</p>
 
 ###
 
@@ -21,10 +21,6 @@
 <br clear="both">
 
 <h2 align="left">I code with</h2>
-
-###
-
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFzdXZnNjk3MHExYnJxa2phd2M2dmxvNHVwdDE4bGw3Zm9pejB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"  />
 
 ###
 
@@ -77,6 +73,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
 </div>
+
+###
+
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFzdXZnNjk3MHExYnJxa2phd2M2dmxvNHVwdDE4bGw3Zm9pejB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"  />
 
 ###
 
