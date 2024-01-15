@@ -76,10 +76,8 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFzdXZnNjk3MHExYnJxa2phd2M2dmxvNHVwdDE4bGw3Zm9pejB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/comboishere/comboishere/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFzdXZnNjk3MHExYnJxa2phd2M2dmxvNHVwdDE4bGw3Zm9pejB1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"  />
+</div>
 
 ###
