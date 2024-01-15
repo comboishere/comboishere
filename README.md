@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A computer engineer, backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **web3 dApps**
+- 🔭 I’m currently working on **web3 dApps and Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
