@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">✨ Developing websites, apps and games since 2012 &nbsp;&nbsp;&nbsp;<br>💻 I'm currently working on web3 dApps and games<br><br>🎼 Musician (guitar, piano)<br>🕺 Social Latin Dancer (salsa, bachata)<br>🎮 MMORPG, MOBA player<br>🥊 Boxing fan</p>
+<div style="margin-right:10px;">
+  <p align="left">✨ Developing websites, apps and games since 2012<br>💻 I'm currently working on web3 dApps and games<br><br>🎼 Musician (guitar, piano)<br>🕺 Social Latin Dancer (salsa, bachata)<br>🎮 MMORPG, MOBA player<br>🥊 Boxing fan</p>
+</div>
 
 ###
 
