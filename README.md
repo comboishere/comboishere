@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="auto" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
+<div style="padding-left:10px;">
+  <img align="right" height="300" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  />
+</div>
 
 ###
 
@@ -14,9 +16,7 @@
 
 ###
 
-<div style="margin-right:10px;">
-  <p align="left">✨ Developing websites, apps and games since 2012<br>💻 I'm currently working on web3 dApps and games<br><br>🎼 Musician (guitar, piano)<br>🕺 Social Latin Dancer (salsa, bachata)<br>🎮 MMORPG, MOBA player<br>🥊 Boxing fan</p>
-</div>
+<p align="left">✨ Developing websites, apps and games since 2012<br>💻 I'm currently working on web3 dApps and games<br><br>🎼 Musician (guitar, piano)<br>🕺 Social Latin Dancer (salsa, bachata)<br>🎮 MMORPG, MOBA player<br>🥊 Boxing fan</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
