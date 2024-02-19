@@ -8,10 +8,6 @@
 
 ###
 
-<p align="left">Computer Engineer</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
