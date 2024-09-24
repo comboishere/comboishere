@@ -4,7 +4,17 @@
 
 ###
 
-<br clear="both">
+<h1 align="center">NPM Profile</h1>
+
+<a href="https://www.npmjs.com/~comboishere">@comboishere</a>
+
+###
+
+<h1 align="center">NPM Packages</h1>
+
+- <a href="https://www.npmjs.com/package/easy-mysql-js">easy-mysql-js</a>
+- <a href="https://www.npmjs.com/package/js-random-generator">js-random-generator</a>
+- <a href="https://www.npmjs.com/package/fibonacci-js">fibonacci-js</a>
 
 ###
 
