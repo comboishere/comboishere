@@ -14,6 +14,7 @@
 
 <div align="center">
 <a href="https://www.npmjs.com/package/easy-mysql-js">easy-mysql-js</a>
+- <a href="https://www.npmjs.com/package/simple-terminal-color">simple-terminal-color</a>
 - <a href="https://www.npmjs.com/package/js-random-generator">js-random-generator</a>
 - <a href="https://www.npmjs.com/package/fibonacci-js">fibonacci-js</a>
 </div>
